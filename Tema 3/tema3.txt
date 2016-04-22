@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+<title> Tema </title>
+<link rel="stylesheet" type="text/css" href="mystyle2.css">
+</head>
+<body>
+<div class="container-fluid">
+	<header>
+		<div class="logo">
+			<img src="./tema2_files/endava.png">
+		</div>
+	</header>
+	
+	
