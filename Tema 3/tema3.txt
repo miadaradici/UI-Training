@@ -12,5 +12,7 @@
 			<img src="./tema2_files/endava.png">
 		</div>
 	</header>
+</div>	
+
 	
 	
